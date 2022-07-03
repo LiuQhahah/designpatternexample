@@ -1,9 +1,6 @@
-package controller;
-import factory.PetFactory;
+package com.controller;
 import factory.PetFactorySpring;
 import factory.PetSpring;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @RestController
 @RequestMapping("/")
