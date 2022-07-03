@@ -1,6 +1,6 @@
 package factory;
 
-public class Dog extends Pet{
+public class Dog extends Pet {
 
 
     @Override
